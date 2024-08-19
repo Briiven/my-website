@@ -74,7 +74,7 @@ img {
 .section-title {
   position: relative;
   font-size: var(--h2-font-size);
-  color: var(--first-color);
+  color: var(--second-color);
   margin-top: var(--mb-2);
   margin-bottom: var(--mb-4);
   text-align: center;
@@ -88,7 +88,7 @@ img {
   right: 0;
   margin: auto;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: var(--second-color);
 }
 
 .section {
@@ -151,7 +151,7 @@ img {
   height: 0.18rem;
   left: 0;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: var(--second-color);
 }
 .nav__logo {
   color: var(--second-color);
@@ -170,7 +170,7 @@ img {
   height: 0.18rem;
   left: 0;
   top: 2rem;
-  background-color: var(--first-color);
+  background-color: var(--second-color);
 }
 
 /*=== Show menu ===*/
@@ -205,7 +205,7 @@ img {
   color: var(--second-color);
 }
 .home__social-icon:hover {
-  color: var(--first-color);
+  color: var(--second-color);
 }
 .home__img {
   position: absolute;
@@ -214,7 +214,8 @@ img {
   width: 260px;
 }
 .home__blob {
-  fill: var(--first-color);
+  fill: var(--second-color);
+
 }
 .home__blob-img {
   width: 360px;
@@ -223,7 +224,7 @@ img {
 /*BUTTONS*/
 .button {
   display: inline-block;
-  background-color: var(--first-color);
+  background-color: var(--second-color);
   color: #fff;
   padding: 0.75rem 2.5rem;
   font-weight: var(--font-semi);
